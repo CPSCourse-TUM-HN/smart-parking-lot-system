@@ -52,8 +52,9 @@ The system integrates *license plate recognition, real-time parking availability
 2. *Install dependencies*
 
 3. *Connect hardware* : like shown in our presentation <br>
-    For extra, check out: https://learn.voltaat.com/tutorials/how-to-use-ultrasonic-sensor-with-raspberry-pi-5
-    https://learn.voltaat.com/tutorials/how-to-controll-a-servo-motor-with-raspberry-pi-5
+    For extra, check out:
+    - https://learn.voltaat.com/tutorials/how-to-use-ultrasonic-sensor-with-raspberry-pi-5
+    - https://learn.voltaat.com/tutorials/how-to-controll-a-servo-motor-with-raspberry-pi-5
 
 5. *Run the MainManager.py*
 
