@@ -1,0 +1,6 @@
+easyocr==1.7.2
+gpiozero==2.0.1
+imutils==0.5.4
+opencv_contrib_python==4.11.0.86
+opencv_python==4.11.0.86
+opencv_python_headless==4.11.0.86
